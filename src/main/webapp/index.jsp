@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<h2>I like trains</h2>
+<h2>I like</h2>
 </body>
 </html>
